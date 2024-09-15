@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="22a2a40d-2359-4c14-8b28-032dd65c2ac7" name="Changes" comment="feat: add .gitignore and project configuration files&#10;&#10;- Added `.idea/.gitignore` to ignore default files and HTTP client requests.&#10;- Added `.idea/cumorah-coding-fall-2024.iml` for project configuration.&#10;- Fixed list item tags in `index.html` for Udemy and BYU-I course links.">
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2m7qDCOgBJ4SotU4OR7dIu9k7jf" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;JavaScript Debug.index.html.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Christopher Mendes/Documents/repos/cumorah-coding-fall-2024&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.inline.completion&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-7c0b70fcd90d-JavaScript-WS-242.21829.149" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="22a2a40d-2359-4c14-8b28-032dd65c2ac7" name="Changes" comment="" />
+      <created>1726437842829</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1726437842829</updated>
+      <workItem from="1726437843918" duration="59000" />
+      <workItem from="1726437924181" duration="382000" />
+      <workItem from="1726438337514" duration="965000" />
+    </task>
+    <task id="LOCAL-00001" summary="feat: add .gitignore and project configuration files&#10;&#10;- Added `.idea/.gitignore` to ignore default files and HTTP client requests.&#10;- Added `.idea/cumorah-coding-fall-2024.iml` for project configuration.&#10;- Fixed list item tags in `index.html` for Udemy and BYU-I course links.">
+      <option name="closed" value="true" />
+      <created>1726438511540</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1726438511540</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="feat: add .gitignore and project configuration files&#10;&#10;- Added `.idea/.gitignore` to ignore default files and HTTP client requests.&#10;- Added `.idea/cumorah-coding-fall-2024.iml` for project configuration.&#10;- Fixed list item tags in `index.html` for Udemy and BYU-I course links." />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: add .gitignore and project configuration files&#10;&#10;- Added `.idea/.gitignore` to ignore default files and HTTP client requests.&#10;- Added `.idea/cumorah-coding-fall-2024.iml` for project configuration.&#10;- Fixed list item tags in `index.html` for Udemy and BYU-I course links." />
+  </component>
+</project>
