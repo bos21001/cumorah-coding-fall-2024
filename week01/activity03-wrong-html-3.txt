@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <title>Debug Challenge 3</title>
+  </head>
+  <body>
+    <header>
+      <h1>Website Debugging Challenge</h1>
+      <nav>
+        <a href="index.html">Home</a>
+        <a href="about.html">About</a>
+        <a href="services.html">Services</a>
+      </nav>
+    </header>
+
+    <main>
+      <article>
+        <h2>Our Team</h2>
+        <img src="images/team.jpg" alt="Team photo">
+        <p>Meet the team behind the website.</p>
+        <div>
+          <h3>Team Members</h3>
+          <p>John Doe, Jane Doe, and Alex Smith are our core developers.</p>
+        </div>
+      </article>
+    </main>
+
+    <footer>
+      <p>Copyright 2024</p>
+  </footer>
+  </body>
+</html>

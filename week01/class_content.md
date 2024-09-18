@@ -113,6 +113,8 @@ Here's the basic structure of an HTML file:
 ### 3.2 Writing HTML Files
 HTML files can be written in any text editor, though **code editors** like Visual Studio Code are recommended for ease of use and efficiency.
 
+---
+
 ## 4. HTML Elements and Attributes
 
 ### 4.1 Common HTML Elements
@@ -203,21 +205,32 @@ After writing HTML, browsers like Chrome or Firefox interpret the code to displa
 - The `<h1>` element is rendered as **large, bold text**.
 - The `<a>` (anchor) element is rendered as **underlined text** in blue (or purple if the link has been visited).
 
-Browsers apply default styles to these elements using **internal CSS**. For example, `<h1>` is displayed larger than other text, and links (`<a>`) are typically blue and underlined.
+Browsers apply default styles to these elements using **internal
 
-### 6.1 Separation of HTML and CSS
-
-- **HTML**: Responsible for the **structure** and **semantics** of the webpage (e.g., heading, link, image).
-- **CSS**: Responsible for the **appearance** and **styling** of the webpage (e.g., colors, font sizes, layout).
+stylesheets**. This is why headings and links look distinct even before adding your own styles.
 
 ---
 
-## 7. Semantic Tags in HTML
+## 7. Image Optimization for Web Development
 
-HTML is based on **semantic tags**, which give meaning to the content of a webpage:
+Images play a significant role in the overall experience of a website. However, large image files can slow down your website, leading to longer loading times and a poor user experience. To avoid these issues, it's important to optimize images for web development.
 
-- **`<h1>`**: Main heading
-- **`<a>`**: Link
-- **`<img>`**: Image
+### 7.1 How to Optimize Images
 
-Semantic tags help developers and browsers understand the content better and improve accessibility and SEO. They also help maintain an organized structure of the web page.
+1. **Resize Images**: Ensure that your images are not larger than they need to be. For example, if an image is displayed at 500px wide on the screen, don’t upload an image that is 2000px wide.
+
+2. **Use Appropriate File Formats**:
+   - **JPEG**: Best for photographs with many colors.
+   - **PNG**: Best for images with transparency or fewer colors.
+   - **SVG**: Best for vector graphics like logos, as they scale without losing quality.
+
+3. **Compress Images**: Use tools like **TinyPNG** or **JPEG-Optimizer** to reduce the file size of your images without noticeable loss in quality.
+
+4. **Lazy Loading**: Implement **lazy loading** so that images are only loaded when the user scrolls down to them, reducing the initial load time of the web page.
+
+### 7.2 Benefits of Image Optimization
+
+- **Faster Load Times**: Optimized images load faster, which improves the overall speed of the website.
+- **Better SEO**: Search engines reward fast-loading websites with better rankings.
+- **Improved User Experience**: Users are more likely to stay on a website that loads quickly, especially on mobile devices where data speeds can be slower.
+

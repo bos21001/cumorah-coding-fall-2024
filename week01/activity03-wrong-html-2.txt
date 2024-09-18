@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, intial-scale=1.0">
+    <title>Debug Challenge 2</title>
+  </head>
+  <body>
+    <header>
+      <h1>Debugging Challenge</h1>
+      <img src="image.jpg" alt="image alt">
+    </header>
+
+    <main>
+      <h2>Our Services</h2>
+      <p>We offer a range of services to enhance your web development skills, including:</p>
+        <ul>
+          <li>HTML & CSS training</li>
+          <li>JavaScript tutorials</li>
+          <li>Debugging exercises</li>
+        </ul>
+    </main>
+
+    <footer>
+      <p>Contact us at: <a href="mailto:webdev@example.com">webdev@example.com<a></p>
+    </footer>
+  </body>
+</html>
